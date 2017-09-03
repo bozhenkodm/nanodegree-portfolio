@@ -1,0 +1,64 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+	font-weight: 300;
+}
+hr {
+    color: #7d97ad;
+    height: 4px;
+    background-color: #7d97ad;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+.container {
+	width: relative
+}
+
+.img-responsive {
+    width: 100%;
+}
+.portfolio-link {
+	text-decoration: none;
+	color: #2d3c49;
+}
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 300;
+}
+
+.text-thick {
+    font-weight: bold;
+}
+
+.text-right {
+	text-align: right;
+}
+.text-left {
+	text-align: left;
+}
+.text-uppercase {
+	text-transform: uppercase;
+}
+.text-center {
+	text-align: center;
+}
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+	width: 10%;
+	float: left;
+}
+.work-item {
+	width: 32%;
+	float: left;
+	margin-right: 10px;
+}
