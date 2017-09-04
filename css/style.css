@@ -1,5 +1,5 @@
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	color: #2d3c49;
 	font-weight: 300;
 }
@@ -13,6 +13,10 @@ h3 {
 	font-size: 30px;
 }
 
+.bottom-line {
+    border-bottom: 4px solid #7d97ad;
+}
+
 .container {
 	width: relative
 }
@@ -20,12 +24,14 @@ h3 {
 .img-responsive {
     width: 100%;
 }
+
 .portfolio-link {
 	text-decoration: none;
 	color: #2d3c49;
 }
+
 .text-muted {
-	color: #BCBBBB;
+	color: #bcbbbb;
 }
 
 .text-thin {
@@ -39,24 +45,29 @@ h3 {
 .text-right {
 	text-align: right;
 }
+
 .text-left {
 	text-align: left;
 }
+
 .text-uppercase {
 	text-transform: uppercase;
 }
+
 .text-center {
 	text-align: center;
 }
+
 .title-super {
 	font-size: 60px;
 }
 
 .title-logo {
-	margin-top: 20px;
+	margin-top: 10px;
 	width: 10%;
 	float: left;
 }
+
 .work-item {
 	width: 32%;
 	float: left;
