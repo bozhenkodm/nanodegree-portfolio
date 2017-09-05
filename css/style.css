@@ -1,7 +1,7 @@
 body {
 	font-family: "Lato", sans-serif;
 	color: #2d3c49;
-	font-weight: 300;
+	font-weight: 100;
 }
 hr {
     color: #7d97ad;
@@ -15,6 +15,7 @@ h3 {
 
 .bottom-line {
     border-bottom: 4px solid #7d97ad;
+	margin-bottom: 10px;
 }
 
 .container {
@@ -64,12 +65,7 @@ h3 {
 
 .title-logo {
 	margin-top: 10px;
-	width: 10%;
+	width: 100%;
 	float: left;
 }
 
-.work-item {
-	width: 32%;
-	float: left;
-	margin-right: 10px;
-}
